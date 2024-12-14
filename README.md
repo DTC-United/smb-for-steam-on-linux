@@ -1,4 +1,4 @@
-# Use your NAS on Linux to store Steam Games
+# Add the games from your NAS in Linux
 
 MAKE SURE YOU INSTALL STEAM DIRECTLY, NOT AS AN FLATPAK!
 
